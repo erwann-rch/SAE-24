@@ -1,4 +1,4 @@
-### BUT RT1 - SAE24 - 2021/22
+# BUT RT1 - SAE24 - 2021/22
 
 In this SAE we were asked to code a sniffer over three common but insecure application protocols (FTP, Telnet and HTTP).
 

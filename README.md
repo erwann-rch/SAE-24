@@ -1,9 +1,12 @@
 ### BUT RT1 - SAE24 - 2021/22
-Dans ce SAE il nous a été demandé de coder un sniffer sur trois protocoles applicatif commun mais non sécurisé (FTP,Telnet et HTTP).
 
-Sur la connexion FTP un fichier a été transféré contenant un texte chiffré en César amélioré, un chiffrement qui incrémente la clef de décalage de 1 à chaque caractère. J'ai déchiffré ce message à l'aide du fichier Cesar.py. 
+In this SAE we were asked to code a sniffer over three common but insecure application protocols (FTP, Telnet and HTTP).
 
-Tout les protocoles ont une version sniff et fichier (.pcapng).
-Tout les fichiers de sniff ont été combiné dans un unique programme capable de détecter quelle connexion est active, c'est ici qu'entre en scène François.py, un ami très intelligent de Titeuf qui a la particularité d'avoir une gros nez (rapport au sniffeur).
+On the FTP connection a file was transferred containing an enhanced Caesar cipher, an encryption that increments the shift key by 1 for each character. I decrypted this message using the Cesar.py file. 
 
-NB : Il est préférable de lancer les fichiers depuis un terminal.
+All protocols have a sniff and file (.pcapng) version .
+All the sniff files have been combined in a single program able to detect which connection is active, this is where François.py comes in, a very smart friend of Titeuf who has the particularity to have a big nose (related to the sniffer).
+
+NB: It is better to launch the files from a terminal.
+
+Translated with www.DeepL.com/Translator (free version)

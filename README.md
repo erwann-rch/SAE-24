@@ -8,5 +8,3 @@ All protocols have a sniff and file (.pcapng) version .
 All the sniff files have been combined in a single program able to detect which connection is active, this is where François.py comes in, a very smart friend of Titeuf who has the particularity to have a big nose (related to the sniffer).
 
 NB: It is better to launch the files from a terminal.
-
-Translated with www.DeepL.com/Translator (free version)
